@@ -1,0 +1,10 @@
+今天的作业:
+    搭建flutter环境,搭建好了截图命令行工具运行flutter doctor的结果
+    把截图发给组长,各组长在发给讲课老师
+
+今天课程的视频地址:
+    链接：https://pan.baidu.com/s/1igsbfq0Y7OJQeSuk_Y8sWQ 
+    提取码：b8gp 
+
+今天课程的代码和课件地址:
+    https://github.com/YangMr/flutter-
