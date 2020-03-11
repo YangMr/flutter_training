@@ -1,0 +1,12 @@
+今天的作业:
+    参考商城设计图效果,完成以下模块:
+	1. 制作标题栏模块
+	2. 制作底部TabBar模块
+	3. 完成点击TabBar跳转到对应页面效果
+
+今天课程的视频地址:
+    链接： https://pan.baidu.com/s/1gBVQER8rOWd2TawbdKFrDQ 
+    提取码：nb5f
+
+今天课程的代码和课件地址:
+    https://github.com/YangMr/flutter_training
