@@ -1,0 +1,13 @@
+今天的作业:
+    参考商城设计图效果,完成以下模块:
+	1. 完成轮播图效果
+	2. 完成猜你喜欢与商品推荐标题模块的制作
+	3. 完成猜你喜欢商品列表滑动效果
+	注意: 图片素材自己选择,效果图我会上传到github
+
+今天课程的视频地址:
+    链接： https://pan.baidu.com/s/1bfzKl5jBTXlOttxbqWARJg 
+    提取码：53je
+
+今天课程的代码和课件地址:
+    https://github.com/YangMr/flutter_training
